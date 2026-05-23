@@ -146,6 +146,7 @@
     <ClInclude Include="Bird.h" />
     <ClInclude Include="Chicken.h" />
     <ClInclude Include="Dog.h" />
+    <ClInclude Include="Duck.h" />
     <ClInclude Include="Lion.h" />
     <ClInclude Include="Wolf.h" />
   </ItemGroup>
