@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Hw-32.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animal.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
