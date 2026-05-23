@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h" />
+    <ClInclude Include="Bird.h" />
     <ClInclude Include="Dog.h" />
     <ClInclude Include="Lion.h" />
     <ClInclude Include="Wolf.h" />
